@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="brand_banner.svg" alt="Voluma - Premium Audio Workstation" width="100%" />
+</p>
+
 # ❄️ Voluma - Premium Audio Waveform Editor & Splitter
 
 **Voluma** is a high-performance, responsive, client-side single-page application (SPA) designed for seamless local audio editing, splitting, visual analysis, and export. 
